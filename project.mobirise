@@ -246,7 +246,7 @@
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
           "text": "Hráli jsme úplně do roztrhání těla. Ze začátku jsme si museli získat přízeň publika, ale podle reakcí všech tiše doufáme, že nám to moc práce nedalo. Kytaristé to hned v druhé skladě pořádně rozjeli.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ČÍST DÁLE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"article.html\" data-toolbar=\"-mbrBtnMove\">ČÍST DÁLE</a>"
         },
         {
           "_tags": [
@@ -358,7 +358,7 @@
           "title1": "Otakar Berežný",
           "subtitle1": "bicí a kapelník",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">CHCI VĚDĚT VÍCE\u001b</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"band.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">CHCI VĚDĚT VÍCE</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
@@ -374,7 +374,7 @@
           "title2": "David Záleský",
           "subtitle2": "zpěv, akustická kytara, foukací harmonika, tamburína",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">CHCI VĚDĚT VÍCE\u001b</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"band.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">CHCI VĚDĚT VÍCE</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
@@ -390,7 +390,7 @@
           "title3": "Josef Mojžíš",
           "subtitle3": "Baskytara",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">CHCI VĚDĚT VÍCE\u001b</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"band.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">CHCI VĚDĚT VÍCE</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
@@ -406,7 +406,7 @@
           "title4": "Pavel Dlabal",
           "subtitle4": "Elektrická kytara",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">CHCI VĚDĚT VÍCE\u001b</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"band.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">CHCI VĚDĚT VÍCE</a>",
           "media5": {
             "iconFont": {
               "active": true,
@@ -449,7 +449,7 @@
             "paddingBottom": "2",
             "bgColor": "#efefef"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">DALŠÍ INFORMACE O KAPELE</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"band.html\" data-toolbar=\"-mbrBtnMove\">DALŠÍ INFORMACE O KAPELE</a> "
         },
         {
           "_inherit": "testimonials1",
@@ -2101,7 +2101,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13087.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13089.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2560,7 +2560,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13087.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13089.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3060,7 +3060,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13087.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13089.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
