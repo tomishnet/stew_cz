@@ -23,7 +23,13 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 73,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": ""
   },
   "pages": {
     "index.html": {
@@ -253,7 +259,7 @@
             "paddingBottom": "2",
             "bgColor": "#efefef"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">DALŠÍ AKTUALITY\u001b</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"articles.html\" data-toolbar=\"-mbrBtnMove\">DALŠÍ AKTUALITY</a> "
         },
         {
           "_styles": {
