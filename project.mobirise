@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "stew.cz",
-    "currentPage": "download.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -163,7 +163,7 @@
           },
           "title": "STEW.CZ - FUNKY KAPELA",
           "text": "Domníváme se, že naše skladby jsou, jak je patrno již z názvu bandu \"STEW\", vývarem z několika našich oblíbených žánrových esencí, které mícháme dle našeho vlastního cítění.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VÍCE O KAPELE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">STÁHNOUT DEMO ALBUM</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#content5-6\" data-toolbar=\"-mbrBtnMove\">VÍCE O KAPELE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"download.html\" data-toolbar=\"-mbrBtnMove\">STÁHNOUT DEMO ALBUM</a>"
         },
         {
           "_styles": {
@@ -2101,7 +2101,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13083.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13087.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2560,7 +2560,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13083.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13087.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3060,7 +3060,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13083.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13087.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
