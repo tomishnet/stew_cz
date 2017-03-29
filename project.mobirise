@@ -73,13 +73,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#4b626d"
+              "background": "#303f46"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#5a7582!important"
+              "background": "#3f525b!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#607d8b"
+              "background": "#455a64"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -101,7 +101,7 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#607d8b",
+            "bgColor": "#455a64",
             "fontSize": "0.9",
             "fontName": {
               "name": "Oswald",
@@ -146,7 +146,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/9-2000x133836.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/9-2000x133854.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -291,7 +291,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": "0.8",
             "overlayColor": "#607d8b",
             "showTitle": true,
@@ -519,10 +519,10 @@
             "showBio": false,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc-2000x133838.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-2000x133856.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#607d8b",
             "showTitle": true,
@@ -740,7 +740,7 @@
           "_name": "menu",
           "_anchor": "menu-h",
           "_params": {
-            "bgColor": "#607d8b",
+            "bgColor": "#455a64",
             "fontSize": "0.9",
             "fontName": {
               "name": "Oswald",
@@ -1212,7 +1212,7 @@
           "_name": "menu",
           "_anchor": "menu-r",
           "_params": {
-            "bgColor": "#607d8b",
+            "bgColor": "#455a64",
             "fontSize": "0.9",
             "fontName": {
               "name": "Oswald",
@@ -1667,7 +1667,7 @@
           "_name": "menu",
           "_anchor": "menu-14",
           "_params": {
-            "bgColor": "#607d8b",
+            "bgColor": "#455a64",
             "fontSize": "0.9",
             "fontName": {
               "name": "Oswald",
@@ -1752,7 +1752,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/10-2000x133837.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/10-2000x133855.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1860,7 +1860,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/8-2000x133839.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/8-2000x133857.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2155,7 +2155,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/9-2000x1338-800x535.jpg",
-                "image": "@PROJECT_PATH@/assets/images/9-2000x133836.jpg",
+                "image": "@PROJECT_PATH@/assets/images/9-2000x133854.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2175,7 +2175,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/10-2000x1338-800x535.jpg",
-                "image": "@PROJECT_PATH@/assets/images/10-2000x133837.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10-2000x133855.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2185,7 +2185,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-2000x1338-800x535.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-2000x133838.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-2000x133856.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2225,7 +2225,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/8-2000x1338-800x535.jpg",
-                "image": "@PROJECT_PATH@/assets/images/8-2000x133839.jpg",
+                "image": "@PROJECT_PATH@/assets/images/8-2000x133857.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -2301,7 +2301,7 @@
           "_name": "menu",
           "_anchor": "menu-1e",
           "_params": {
-            "bgColor": "#607d8b",
+            "bgColor": "#455a64",
             "fontSize": "0.9",
             "fontName": {
               "name": "Oswald",
@@ -2545,7 +2545,7 @@
           "_name": "menu",
           "_anchor": "menu-1i",
           "_params": {
-            "bgColor": "#607d8b",
+            "bgColor": "#455a64",
             "fontSize": "0.9",
             "fontName": {
               "name": "Oswald",
@@ -2600,7 +2600,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc-2000x133838.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-2000x133856.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3057,7 +3057,7 @@
           "_name": "menu",
           "_anchor": "menu-1p",
           "_params": {
-            "bgColor": "#607d8b",
+            "bgColor": "#455a64",
             "fontSize": "0.9",
             "fontName": {
               "name": "Oswald",
@@ -3112,7 +3112,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc-2000x133838.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-2000x133856.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3396,7 +3396,7 @@
           "_name": "menu",
           "_anchor": "menu-1x",
           "_params": {
-            "bgColor": "#607d8b",
+            "bgColor": "#455a64",
             "fontSize": "0.9",
             "fontName": {
               "name": "Oswald",
