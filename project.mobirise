@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "stew.cz",
-    "currentPage": "photos.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -146,14 +146,14 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/9-2000x133830.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/9-2000x133836.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": "0.5",
             "overlayColor": "#607d8b",
             "contentAlign": "center",
@@ -519,7 +519,7 @@
             "showBio": false,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc-2000x133832.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-2000x133838.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -1752,7 +1752,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/10-2000x133831.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/10-2000x133837.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1860,7 +1860,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/8-2000x133833.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/8-2000x133839.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2155,7 +2155,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/9-2000x1338-800x535.jpg",
-                "image": "@PROJECT_PATH@/assets/images/9-2000x133830.jpg",
+                "image": "@PROJECT_PATH@/assets/images/9-2000x133836.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2175,7 +2175,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/10-2000x1338-800x535.jpg",
-                "image": "@PROJECT_PATH@/assets/images/10-2000x133831.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10-2000x133837.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2185,7 +2185,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-2000x1338-800x535.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-2000x133832.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-2000x133838.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2225,7 +2225,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/8-2000x1338-800x535.jpg",
-                "image": "@PROJECT_PATH@/assets/images/8-2000x133833.jpg",
+                "image": "@PROJECT_PATH@/assets/images/8-2000x133839.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -2600,7 +2600,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc-2000x133832.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-2000x133838.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3112,7 +3112,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc-2000x133832.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-2000x133838.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
