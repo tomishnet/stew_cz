@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "stew.cz",
-    "currentPage": "band.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -161,7 +161,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "STEW.CZ - KAPELA",
+          "title": "STEW .cz",
           "text": "Domníváme se, že naše skladby jsou, jak je patrno již z názvu bandu \"STEW\", vývarem z několika našich oblíbených žánrových esencí, které mícháme dle našeho vlastního cítění.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#content5-6\" data-toolbar=\"-mbrBtnMove\">VÍCE O KAPELE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"download.html\" data-toolbar=\"-mbrBtnMove\">STÁHNOUT DEMO ALBUM</a>"
         },
