@@ -6,8 +6,8 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#90a878",
-        "secondaryColor": "#bfcecb",
+        "primaryColor": "#607d8b",
+        "secondaryColor": "#cfd8dc",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
@@ -73,13 +73,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#20261c"
+              "background": "#4b626d"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#323a2b!important"
+              "background": "#5a7582!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#394332"
+              "background": "#607d8b"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -92,7 +92,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#90a878!important"
+              "color": "#607d8b!important"
             }
           },
           "_tags": [
@@ -101,7 +101,7 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#394332",
+            "bgColor": "#607d8b",
             "fontSize": "0.9",
             "fontName": {
               "name": "Oswald",
@@ -146,7 +146,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/9-2000x1338.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -155,13 +155,13 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.5",
-            "overlayColor": "#475639",
+            "overlayColor": "#607d8b",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
             "showButtons": true
           },
-          "title": "STEW.CZ - FUNKY KAPELA",
+          "title": "STEW.CZ - KAPELA",
           "text": "Domníváme se, že naše skladby jsou, jak je patrno již z názvu bandu \"STEW\", vývarem z několika našich oblíbených žánrových esencí, které mícháme dle našeho vlastního cítění.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#content5-6\" data-toolbar=\"-mbrBtnMove\">VÍCE O KAPELE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"download.html\" data-toolbar=\"-mbrBtnMove\">STÁHNOUT DEMO ALBUM</a>"
         },
@@ -226,7 +226,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x927.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2-1400x937.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -284,7 +284,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/7-2000x2987.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -293,7 +293,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.8",
-            "overlayColor": "#475639",
+            "overlayColor": "#607d8b",
             "showTitle": true,
             "showCaption": true
           },
@@ -310,8 +310,8 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "#90a878",
-              "border-color": "#90a878"
+              "background-color": "#cfd8dc",
+              "border-color": "#cfd8dc"
             },
             "P": {
               "font-family": "'Roboto Slab', serif",
@@ -321,7 +321,7 @@
           "_name": "features7",
           "_anchor": "features7-a",
           "_params": {
-            "iconsBgColor": "#90a878",
+            "iconsBgColor": "#cfd8dc",
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
@@ -519,12 +519,12 @@
             "showBio": false,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1308.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-2000x1338.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#475639",
+            "overlayColor": "#607d8b",
             "showTitle": true,
             "showSubtitle": false
           },
@@ -545,6 +545,18 @@
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-size": "15px"
+            },
+            "SPAN": {
+              "color": "#efefef"
+            },
+            "LI": {
+              "color": "#efefef"
+            },
+            "H4": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "contacts3-9",
@@ -554,7 +566,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#394332",
+            "bgColor": "#455a64",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -653,7 +665,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#4b5641",
+            "bgColor": "#607d8b",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -700,13 +712,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#20261c"
+              "background": "#4b626d"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#323a2b!important"
+              "background": "#5a7582!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#394332"
+              "background": "#607d8b"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -719,7 +731,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#90a878!important"
+              "color": "#607d8b!important"
             }
           },
           "_tags": [
@@ -728,7 +740,7 @@
           "_name": "menu",
           "_anchor": "menu-h",
           "_params": {
-            "bgColor": "#394332",
+            "bgColor": "#607d8b",
             "fontSize": "0.9",
             "fontName": {
               "name": "Oswald",
@@ -783,7 +795,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1308.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/14-2000x1338.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -792,7 +804,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222",
+            "overlayColor": "#607d8b",
             "showTitle": true,
             "showText": true,
             "showButton": false
@@ -838,7 +850,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x927.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2-1400x937.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -897,7 +909,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-2000x1125.jpg",
+              "src": "@PROJECT_PATH@/assets/images/14-2000x1338.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -956,7 +968,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-2000x1125.jpg",
+              "src": "@PROJECT_PATH@/assets/images/9-1400x937.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1003,7 +1015,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#4b5641",
+            "bgColor": "#607d8b",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1025,6 +1037,18 @@
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-size": "15px"
+            },
+            "SPAN": {
+              "color": "#efefef"
+            },
+            "LI": {
+              "color": "#efefef"
+            },
+            "H4": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "contacts3-i",
@@ -1034,7 +1058,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#394332",
+            "bgColor": "#455a64",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1160,13 +1184,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#20261c"
+              "background": "#4b626d"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#323a2b!important"
+              "background": "#5a7582!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#394332"
+              "background": "#607d8b"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1179,7 +1203,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#90a878!important"
+              "color": "#607d8b!important"
             }
           },
           "_tags": [
@@ -1188,7 +1212,7 @@
           "_name": "menu",
           "_anchor": "menu-r",
           "_params": {
-            "bgColor": "#394332",
+            "bgColor": "#607d8b",
             "fontSize": "0.9",
             "fontName": {
               "name": "Oswald",
@@ -1252,7 +1276,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222",
+            "overlayColor": "#607d8b",
             "showTitle": true,
             "showText": true,
             "showButton": false
@@ -1448,6 +1472,18 @@
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-size": "15px"
+            },
+            "SPAN": {
+              "color": "#efefef"
+            },
+            "LI": {
+              "color": "#efefef"
+            },
+            "H4": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "contacts3-x",
@@ -1457,7 +1493,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#394332",
+            "bgColor": "#455a64",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1556,7 +1592,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#4b5641",
+            "bgColor": "#607d8b",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1603,13 +1639,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#20261c"
+              "background": "#4b626d"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#323a2b!important"
+              "background": "#5a7582!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#394332"
+              "background": "#607d8b"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1622,7 +1658,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#90a878!important"
+              "color": "#607d8b!important"
             }
           },
           "_tags": [
@@ -1631,7 +1667,7 @@
           "_name": "menu",
           "_anchor": "menu-14",
           "_params": {
-            "bgColor": "#394332",
+            "bgColor": "#607d8b",
             "fontSize": "0.9",
             "fontName": {
               "name": "Oswald",
@@ -1678,20 +1714,6 @@
             "timeout": 5,
             "slides": [
               {
-                "active": true,
-                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "Členové kapely STEW",
-                "showText": true,
-                "text": "Video medailonky jednotlivých členů kapely",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"band.html#header2-17\" data-toolbar=\"-mbrBtnMove\">Otakar Berežný</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"band.html#header2-1b\" data-toolbar=\"-mbrBtnMove\">David Záleský</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"band.html#header2-1c\" data-toolbar=\"-mbrBtnMove\">Josef Mojžíš</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"band.html#header2-1d\" data-toolbar=\"-mbrBtnMove\">Pavel Dlabal</a>"
-              },
-              {
                 "active": false,
                 "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
                 "playVideo": true,
@@ -1718,6 +1740,21 @@
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayColor": "#607d8b",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Členové kapely STEW",
+                "showText": true,
+                "text": "Video medailonky jednotlivých členů kapely",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"band.html#header2-17\" data-toolbar=\"-mbrBtnMove\">Otakar Berežný</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"band.html#header2-1b\" data-toolbar=\"-mbrBtnMove\">David Záleský</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"band.html#header2-1c\" data-toolbar=\"-mbrBtnMove\">Josef Mojžíš</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"band.html#header2-1d\" data-toolbar=\"-mbrBtnMove\">Pavel Dlabal</a>"
               }
             ],
             "fullScreen": true,
@@ -1743,7 +1780,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/10-2000x1338.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1797,7 +1834,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1308.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/2-1400x937.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1851,7 +1888,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/8-2000x1338.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1905,7 +1942,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1400x927.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/11-2000x2987.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1957,6 +1994,18 @@
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-size": "15px"
+            },
+            "SPAN": {
+              "color": "#efefef"
+            },
+            "LI": {
+              "color": "#efefef"
+            },
+            "H4": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "contacts3-15",
@@ -1966,7 +2015,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#394332",
+            "bgColor": "#455a64",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2065,7 +2114,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#4b5641",
+            "bgColor": "#607d8b",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2101,7 +2150,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13089.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/14-2000x1338.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2110,7 +2159,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222",
+            "overlayColor": "#607d8b",
             "showTitle": true,
             "showText": true,
             "showButton": false
@@ -2245,13 +2294,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#20261c"
+              "background": "#4b626d"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#323a2b!important"
+              "background": "#5a7582!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#394332"
+              "background": "#607d8b"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2264,7 +2313,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#90a878!important"
+              "color": "#607d8b!important"
             }
           },
           "_tags": [
@@ -2273,7 +2322,7 @@
           "_name": "menu",
           "_anchor": "menu-1e",
           "_params": {
-            "bgColor": "#394332",
+            "bgColor": "#607d8b",
             "fontSize": "0.9",
             "fontName": {
               "name": "Oswald",
@@ -2322,6 +2371,18 @@
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-size": "15px"
+            },
+            "SPAN": {
+              "color": "#efefef"
+            },
+            "LI": {
+              "color": "#efefef"
+            },
+            "H4": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "contacts3-1f",
@@ -2331,7 +2392,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#394332",
+            "bgColor": "#455a64",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2430,7 +2491,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#4b5641",
+            "bgColor": "#607d8b",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2477,13 +2538,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#20261c"
+              "background": "#4b626d"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#323a2b!important"
+              "background": "#5a7582!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#394332"
+              "background": "#607d8b"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2496,7 +2557,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#90a878!important"
+              "color": "#607d8b!important"
             }
           },
           "_tags": [
@@ -2505,7 +2566,7 @@
           "_name": "menu",
           "_anchor": "menu-1i",
           "_params": {
-            "bgColor": "#394332",
+            "bgColor": "#607d8b",
             "fontSize": "0.9",
             "fontName": {
               "name": "Oswald",
@@ -2560,7 +2621,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13089.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-2000x1338.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2569,7 +2630,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222",
+            "overlayColor": "#607d8b",
             "showTitle": true,
             "showText": true,
             "showButton": false
@@ -2822,6 +2883,18 @@
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-size": "15px"
+            },
+            "SPAN": {
+              "color": "#efefef"
+            },
+            "LI": {
+              "color": "#efefef"
+            },
+            "H4": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "contacts3-1j",
@@ -2831,7 +2904,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#394332",
+            "bgColor": "#455a64",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2930,7 +3003,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#4b5641",
+            "bgColor": "#607d8b",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2977,13 +3050,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#20261c"
+              "background": "#4b626d"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#323a2b!important"
+              "background": "#5a7582!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#394332"
+              "background": "#607d8b"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2996,7 +3069,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#90a878!important"
+              "color": "#607d8b!important"
             }
           },
           "_tags": [
@@ -3005,7 +3078,7 @@
           "_name": "menu",
           "_anchor": "menu-1p",
           "_params": {
-            "bgColor": "#394332",
+            "bgColor": "#607d8b",
             "fontSize": "0.9",
             "fontName": {
               "name": "Oswald",
@@ -3060,7 +3133,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13089.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-2000x1338.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3069,7 +3142,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222",
+            "overlayColor": "#607d8b",
             "showTitle": true,
             "showText": false,
             "showButton": false
@@ -3149,6 +3222,18 @@
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-size": "15px"
+            },
+            "SPAN": {
+              "color": "#efefef"
+            },
+            "LI": {
+              "color": "#efefef"
+            },
+            "H4": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "contacts3-1q",
@@ -3158,7 +3243,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#394332",
+            "bgColor": "#455a64",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -3257,7 +3342,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#4b5641",
+            "bgColor": "#607d8b",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -3304,13 +3389,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#20261c"
+              "background": "#4b626d"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#323a2b!important"
+              "background": "#5a7582!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#394332"
+              "background": "#607d8b"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -3323,7 +3408,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#90a878!important"
+              "color": "#607d8b!important"
             }
           },
           "_tags": [
@@ -3332,7 +3417,7 @@
           "_name": "menu",
           "_anchor": "menu-1x",
           "_params": {
-            "bgColor": "#394332",
+            "bgColor": "#607d8b",
             "fontSize": "0.9",
             "fontName": {
               "name": "Oswald",
@@ -3392,7 +3477,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.7",
-            "overlayColor": "#000",
+            "overlayColor": "#607d8b",
             "inverse": false,
             "showTitle": true,
             "showText": true,
@@ -3439,6 +3524,18 @@
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-size": "15px"
+            },
+            "SPAN": {
+              "color": "#efefef"
+            },
+            "LI": {
+              "color": "#efefef"
+            },
+            "H4": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "contacts3-1y",
@@ -3448,7 +3545,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#394332",
+            "bgColor": "#455a64",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -3547,7 +3644,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#4b5641",
+            "bgColor": "#607d8b",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
