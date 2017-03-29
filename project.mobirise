@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "stew.cz",
-    "currentPage": "multimedia.html",
+    "currentPage": "band.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1714,6 +1714,21 @@
             "timeout": 5,
             "slides": [
               {
+                "active": true,
+                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayColor": "#607d8b",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Členové kapely STEW",
+                "showText": true,
+                "text": "Video medailonky jednotlivých členů kapely",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"band.html#header2-17\" data-toolbar=\"-mbrBtnMove\">Otakar Berežný</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"band.html#header2-1b\" data-toolbar=\"-mbrBtnMove\">David Záleský</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"band.html#header2-1c\" data-toolbar=\"-mbrBtnMove\">Josef Mojžíš</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"band.html#header2-1d\" data-toolbar=\"-mbrBtnMove\">Pavel Dlabal</a>"
+              },
+              {
                 "active": false,
                 "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
                 "playVideo": true,
@@ -1740,21 +1755,6 @@
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": true,
-                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "overlayColor": "#607d8b",
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "Členové kapely STEW",
-                "showText": true,
-                "text": "Video medailonky jednotlivých členů kapely",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"band.html#header2-17\" data-toolbar=\"-mbrBtnMove\">Otakar Berežný</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"band.html#header2-1b\" data-toolbar=\"-mbrBtnMove\">David Záleský</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"band.html#header2-1c\" data-toolbar=\"-mbrBtnMove\">Josef Mojžíš</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"band.html#header2-1d\" data-toolbar=\"-mbrBtnMove\">Pavel Dlabal</a>"
               }
             ],
             "fullScreen": true,
