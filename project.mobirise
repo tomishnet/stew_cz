@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "stew.cz",
-    "currentPage": "index.html",
+    "currentPage": "multimedia.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2764,7 +2764,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222",
+            "overlayColor": "#607d8b",
             "showTitle": true,
             "showText": true,
             "showButton": false
